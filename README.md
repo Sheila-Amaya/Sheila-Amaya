@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Sheila</h1>
 <h3 align="center">I am a student of systems engineering.</h3>
 
-- 🌱 I’m currently learning **Django ,nodeJs**
+- 🌱 I’m currently learning **Django, flask**
 
 - 📫 How to reach me **amayasheila63@gmail.com**
 
