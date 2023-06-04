@@ -8,8 +8,6 @@
 - 🌱 I’m currently learning **Django, flask**
 
 - 📫 How to reach me **amayasheila63@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
