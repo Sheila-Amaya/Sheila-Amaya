@@ -31,3 +31,6 @@
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
   </a>
 </p>
+
+&nbsp;
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sheila-Amaya&show_icons=true&theme=radical)
