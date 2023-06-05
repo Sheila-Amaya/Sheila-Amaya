@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/gist/theintel/08ef8fb89ca9723215fd7cf555296c98/raw/feef4367c64ef24c8c7bd6eefcd55ceb29901b10/wi.gif" alt="coding" width="300">
-</p>
 
 <h1 align="center">Hi 👋, I'm Sheila</h1>
 <h3 align="center">I am a student of systems engineering.</h3>
@@ -8,8 +5,8 @@
 - 🌱 I’m currently learning **Django, flask**
 - 📫 How to reach me **amayasheila63@gmail.com**
 
-<h3>🔨Languages and Tools:</h3>
-<p align="left">
+<h3>🔨 Languages and Tools:</h3>
+<div style="display: inline-block;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
   <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/>
@@ -29,7 +26,7 @@
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
   </a>
-</p>
+</div>
 
 ---
 
