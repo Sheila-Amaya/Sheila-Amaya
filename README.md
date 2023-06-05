@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/gist/theintel/08ef8fb89ca9723215fd7cf555296c98/raw/feef4367c64ef24c8c7bd6eefcd55ceb29901b10/wi.gif" alt="coding" width="300">
+</p>
 <h1 align="center">Hi 👋, I'm Sheila</h1>
 <h3 align="center">I am a student of systems engineering.</h3>
 
