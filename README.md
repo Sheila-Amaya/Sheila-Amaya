@@ -35,4 +35,5 @@
 
 ### 📎My Stats:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sheila-Amaya&show_icons=true&theme=synthwave)
-
+&nbsp;&nbsp;
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sheila-Amaya&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
