@@ -6,10 +6,9 @@
 <h3 align="center">I am a student of systems engineering.</h3>
 
 - 🌱 I’m currently learning **Django, flask**
-
 - 📫 How to reach me **amayasheila63@gmail.com**
 
-
+<h3>🔨Languages and Tools:</h3>
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
   <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer">
@@ -32,5 +31,8 @@
   </a>
 </p>
 
-&nbsp;
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sheila-Amaya&show_icons=true&theme=radical)
+---
+
+### 📎My Stats:
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sheila-Amaya&show_icons=true&theme=synthwave)
+
