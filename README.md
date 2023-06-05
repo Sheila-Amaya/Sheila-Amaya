@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Django, flask**
 - 📫 How to reach me **amayasheila63@gmail.com**
-
+---
 <h3>🔨 Languages and Tools:</h3>
 <div style="display: inline-block;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
@@ -28,6 +28,7 @@
   </a>
   </div>
   
+  ---
   <h3>📎My Stats:</h3>
   <div align="left">
 	<img src="https://github-readme-stats.vercel.app/api?username=Sheila-Amaya&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&line_height=24&hide_border=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" />
