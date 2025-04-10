@@ -3,12 +3,12 @@
 <img src="assets/haku1.png" width="25%" align="right" />
 
 <img 
-  src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=35&duration=4000&pause=300&color=A7A459&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1000&height=120&lines=Hi+there~;I+am+Sheila,+student+of+systems+engineering" 
+  src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=35&duration=4000&pause=300&color=F74D4D&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1000&height=120&lines=Hi+there~;I+am+Sheila,+student+of+systems+engineering" 
   width="70%" 
 />
 
 <pre>
-🌱 Currently learning JavaScript
+🌱  Currently learning data modeling with Python
 🎨 I love coding & cute pixel art
 📫 amayasheila63@gmail.com
 </pre>
@@ -24,26 +24,27 @@
 <br/><br/>
 
 ## 💻 Languages and Tools
+### 🧠 Languages
+[![Skill Icons](https://skillicons.dev/icons?i=java,python,js,ts,markdown&perline=8)](https://skillicons.dev)
 
-<p align="left">
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54" />
-  <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white" />
-  <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=flat&logo=adobe%20illustrator&logoColor=white" />
-  <img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat&logo=adobe%20photoshop&logoColor=white" />
-</p>
+### 🧩 Frameworks & Libraries
+[![Skill Icons](https://skillicons.dev/icons?i=react,nodejs,flask,django,bootstrap&perline=8)](https://skillicons.dev)
+
+### 🔧 Tools & Platforms
+[![Skill Icons](https://skillicons.dev/icons?i=git,github,docker,aws,postman,arduino,jira,trello&perline=8)](https://skillicons.dev)
+
+### 🎨 Design
+[![Skill Icons](https://skillicons.dev/icons?i=ai,ps&perline=8)](https://skillicons.dev)
 
 <br/><br/>
 
 ## 📎 My Stats
 
-<div align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sheila-Amaya&theme=tokyonight&hide_border=false" alt="Sheila's Streak" />
-</div>
+<details>
+  <summary><b>🔥 GitHub Streak</b></summary>
+  <br/>
+  <img src="https://streak-stats.demolab.com?user=Sheila-Amaya&theme=tokyonight&hide_border=false" alt="GitHub Streak"/>
+</details>
 
 <details>
   <summary><b>⚡ GitHub Profile Stats</b></summary>
