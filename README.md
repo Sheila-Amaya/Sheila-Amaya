@@ -24,17 +24,23 @@
 <br/><br/>
 
 ## 💻 Languages and Tools
-### 🧠 Languages
+#### Languages
 [![Skill Icons](https://skillicons.dev/icons?i=java,python,js,ts,markdown&perline=8)](https://skillicons.dev)
 
-### 🧩 Frameworks & Libraries
+#### Frameworks & Libraries
 [![Skill Icons](https://skillicons.dev/icons?i=react,nodejs,flask,django,bootstrap&perline=8)](https://skillicons.dev)
 
-### 🔧 Tools & Platforms
+#### Tools & Platforms
 [![Skill Icons](https://skillicons.dev/icons?i=git,github,docker,aws,postman,arduino,jira,trello&perline=8)](https://skillicons.dev)
 
-### 🎨 Design
+#### Design
 [![Skill Icons](https://skillicons.dev/icons?i=ai,ps&perline=8)](https://skillicons.dev)
+
+#### Project Management
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="40" alt="Jira icon" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" width="40" alt="Trello icon" />
+</p>
 
 <br/><br/>
 
