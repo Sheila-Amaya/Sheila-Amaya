@@ -3,7 +3,7 @@
 <img src="assets/haku1.png" width="25%" align="right" />
 
 <img 
-  src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=35&duration=4000&pause=300&color=F74D4D&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1000&height=120&lines=Hi+there~;I+am+Sheila,+student+of+systems+engineering" 
+  src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=35&duration=4000&pause=300&color=63b7b8&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1000&height=120&lines=Hi+there+%DD%81%E2%8B%86+%E2%98%85+%CB%9A%EF%BD%A1%E2%8B%86;I+am+Sheila,+student+of+systems+engineering" 
   width="70%" 
 />
 
